@@ -15,6 +15,7 @@
     "prepublish": "npm run clean && npm run build",
     "test": "jest"
   },
+  "private": false,
   "license": "MIT",
   "homepage": "https://github.com/Q314TRA/react-skroll#readme",
   "repository": {
